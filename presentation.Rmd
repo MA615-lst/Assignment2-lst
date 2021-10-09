@@ -12,6 +12,14 @@ source("visualization_function.R")
 #notes: choose 2 worldwide datasets from 2005 to 2017, first dataset is about hdi (human development index), second dataset is about hapi (happiness score).
 ```
 
+## overview
+
+- I chose 2 worldwide datasets from 2005 to 2017, first dataset is about hdi (human development index), second dataset is about hapi (happiness score).
+
+- Firstly, I want to explore the relationship between hdi and hapi, and see whether there are difference between different countries.
+
+- Secondly, I want to explore the time trend of hdi or hapi, and see whether there are difference between different countries.
+
 ## compare hdi~hapi between two countries
 
 - For example, we choose China and United States as indicators, and see whether the relationship of hdi and hapi is different between these two countries. 
